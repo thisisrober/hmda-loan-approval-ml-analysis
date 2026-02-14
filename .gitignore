@@ -4,3 +4,5 @@ data/utah_hmda_data_2022.csv
 data/utah_hmda_data_2021.csv
 data/utah_hmda_data_2019.csv
 data/utah_hmda_data_2022_limpio.csv
+
+.venv
